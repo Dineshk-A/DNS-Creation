@@ -1,0 +1,7 @@
+Day 2: Adding Common DNS Records
+
+1. Add A records for key hosts (e.g., `webserver`, `dbserver`).
+2. Add CNAME records for each A record.
+3. Add MX (Mail Exchange) records to set up mail routing.
+4. Create TXT records for domain verification.
+5. Test record resolution using `nslookup` or `Resolve-DnsName`.

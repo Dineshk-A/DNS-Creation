@@ -1,0 +1,7 @@
+Day 4: Forwarding and Root hints
+
+1. Configure DNS forwarders for external resolution (e.g., ISP DNS).
+2. Verify and modify root hints if necessary.
+3. Test DNS forwarders by resolving an external domain.
+4. Set up conditional forwarding for a specific domain.
+5. Test conditional forwarders by querying specific external domains.

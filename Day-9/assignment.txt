@@ -1,0 +1,7 @@
+Day 9: Stub Zones 
+
+1. Configure a stub zone to hold partial zone information.
+2. Set up conditional forwarding for the stub zone.
+3. Verify the stub zone by querying records within it.
+4. Monitor stub zone updates and replication.
+5. Document stub zone configuration details.

@@ -1,0 +1,7 @@
+Day 10: Zone Transfer and Secondary DNS Server 
+
+1. Set up a secondary DNS server.
+2. Enable zone transfers from primary to secondary.
+3. Configure and test zone replication.
+4. Verify settings by stopping the primary DNS server and testing the secondary.
+5. Document zone transfer configuration.

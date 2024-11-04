@@ -1,0 +1,7 @@
+Day 3: Configuring Reverse Lookup Zone
+
+1. Create a reverse lookup zone for the IP range in use.
+2. Add PTR (Pointer) records to link IPs with hostnames.
+3. Set up and configure zone properties like aging and scavenging.
+4. Test reverse DNS lookups with `nslookup`.
+5. Verify settings by querying IPs to resolve hostnames.

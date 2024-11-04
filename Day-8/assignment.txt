@@ -1,0 +1,7 @@
+Day 8: Zone Delegation 
+
+1. Set up a subdomain (e.g., `sub.example.local`).
+2. Delegate the subdomain to another DNS server.
+3. Create delegation records in the main zone.
+4. Test zone delegation by querying subdomain records.
+5. Document the delegation settings for troubleshooting.

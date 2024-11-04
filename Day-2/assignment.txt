@@ -1,4 +1,5 @@
-**Day 1: DNS Server Installation and Zone Setup**
+Day 1: DNS Server Installation and Zone Setup
+
 1. Install the DNS Server role on Windows Server.
 2. Create a primary DNS zone (e.g., `example.local`).
 3. Configure basic DNS settings like primary and secondary DNS.

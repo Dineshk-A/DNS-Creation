@@ -1,0 +1,7 @@
+Day 7: Dynamic DNS (DDNS) Setup 
+
+1. Enable Dynamic DNS (DDNS) for automatic DNS updates.
+2. Configure client computers to use DDNS.
+3. Verify that clients are updating DNS records automatically.
+4. Set permissions for secure DDNS updates.
+5. Monitor updates by observing the DNS zone records.

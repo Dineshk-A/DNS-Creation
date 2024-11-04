@@ -1,0 +1,7 @@
+Day 5: DNSSEC and Security Essentials 
+
+1. Enable DNSSEC on your DNS zone to secure responses.
+2. Generate and apply key-signing keys (KSK) and zone-signing keys (ZSK).
+3. Verify DNSSEC settings using `Resolve-DnsName`.
+4. Configure permissions for DNS Administrators.
+5. Document DNSSEC settings and observe DNS resolution.

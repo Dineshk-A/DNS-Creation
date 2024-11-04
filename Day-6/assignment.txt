@@ -1,0 +1,7 @@
+Day 6: Advanced Record Types 
+
+1. Create SRV (Service) records for services like LDAP.
+2. Add SPF records for email servers.
+3. Configure additional MX records with priority values.
+4. Add additional CNAME aliases and test their resolution.
+5. Test SRV and MX records using DNS tools.
